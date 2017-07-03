@@ -2,4 +2,6 @@ test github
 <<<<<<< HEAD
 nguyen
 thuan
-thanh
+=======
+nguyen
+>>>>>>> parent of ccf337d... test1
